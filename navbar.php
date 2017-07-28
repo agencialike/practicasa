@@ -14,12 +14,12 @@
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
               <li class="active"><a href="./">Inicio <span class="sr-only">(current)</span></a></li>
-              <li><a href="../navbar-fixed-top/">Quienes somos</a></li>
+              <li><a href="http://localhost/wordpress/?page_id=80">Quienes somos</a></li>
               <li><a href="../navbar-fixed-top/">Productos</a></li>
               <li><a href="../navbar-fixed-top/">Proyectos</a></li>
-              <li><a href="../navbar-fixed-top/">Galería</a></li>
+              <li><a href="http://localhost/wordpress/?page_id=77">Galería</a></li>
               <li><a href="../navbar-fixed-top/">Blog</a></li>
-              <li><a href="../navbar-fixed-top/">Contacto</a></li>
+              <li><a href="http://localhost/wordpress/?page_id=82">Contacto</a></li>
 
             </ul>
           </div><!--/.nav-collapse -->

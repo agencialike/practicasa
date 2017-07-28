@@ -1,7 +1,7 @@
 <div class="container-fluid" style="background: black;">
 	<div class="container footer">
-		<div class="col-md-6 col-xs-12">
-			<img src="http://localhost/wordpress/wp-content/uploads/2017/07/logo300x100.png" class="col-md-5 col-xs-12 img-responsive" style="padding: 15px 0px;" alt="">
+		<div class="col-md-6 ">
+			<img src="http://localhost/wordpress/wp-content/uploads/2017/07/logo300x100.png" class="col-md-5 col-xs-6 col-xs-offset-3 img-responsive" style="padding: 15px 0px;" alt="">
 			<p class="col-xs-12" style="padding: 20px 0px;">PRACTICASA es una empresa que vio sus inicios en el año de 1999. Fue creada bajo el objetivo de ofrecer materiales de acabados decorativos con un gran nivel de calidad para la construcción, siempre buscando los mejores productos y diseños; liderando así en el mercado de tendencias, caracterizándonos por nuestra atención personalizada y a cargo de asesores altamente calificados para ofrecer un servicio de primera.</p>
 		</div>
 		<div class="col-md-3 col-xs-12">
