@@ -111,12 +111,21 @@ font-family: @font2;
 	background-color: #727272;
 	border-color: #727272;
 }
-.carousel-caption{
-	color: #6A6A6A;
-	text-shadow:none;
+
+.carousel, .item, .active{
+	height: 90%;
+}
+@media (max-width:900px){
+	.carousel, .item, .active{
+	height: 100%;
+	}
 }
 
-
+@media screen and (min-width: 768px){
+    .carousel-caption{
+    
+    }
+}
 
 
 
