@@ -1,7 +1,11 @@
 <?php 
+/*
+Template name: proyectos
+*/
+?>
+<?php 
  include "header.php";
  include "navbar.php";
- incLude "single-comnt.php";
- include "Instagramindex.php";
+ include "proyectos-cont.php";
  include "footer.php"; 
 ?>

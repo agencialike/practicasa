@@ -46,30 +46,30 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-    <div class="carousel-caption">
-        <h2 class="text-cap">Línea residencial &  Comercial. </h2>
+    <div class="carousel-caption col-md-6 col-md-offset-3 col-xs-12 visible-lg visible-md visible-lg visible-md">
+        <h2 class="text-cap " >Línea residencial &  Comercial. </h2>
         <p style="line-height: 20px;"> Nuestra linea de productos esta dirigido a clientes que buscan una alta calidad y diseño exclusivo.</p>
         <a href=""><div class="col-md-3 col-md-offset-9 col-xs-12 ctacarr">Ver más</div></a>
       </div>
-      <img src="http://localhost/wordpress/wp-content/uploads/2017/07/Captura-de-pantalla-2017-07-28-a-las-9.50.27-a.m..png" alt="Los Angeles">
+      <img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/Captura-de-pantalla-2017-07-28-a-las-9.50.27-a.m.-1.png" alt="Los Angeles">
     </div>
 
     <div class="item">
-    <div class="carousel-caption">
+    <div class="carousel-caption col-md-6 col-md-offset-3 col-xs-12 visible-lg visible-md">
         <h2 class="text-cap">Línea Industrial. </h2>
         <p style="line-height: 20px;"> Nuestra línea industrial se enfoca en dar soluciones a problemas <br> energeticos, de temperatura, ahorro de energia, tanto como en industrias, aeropuertos, mercados <br>bry galpones. Damos soluciones a problema en desgaste de pisos para industrias, bodegas y parqueos.</p>
         <a href=""><div class="col-md-3 col-md-offset-9 col-xs-12 ctacarr">Ver más</div></a>
       </div>
-      <img src="http://localhost/wordpress/wp-content/uploads/2017/07/Captura-de-pantalla-2017-07-28-a-las-9.50.27-a.m..png" alt="Chicago">
+      <img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/Captura-de-pantalla-2017-07-28-a-las-9.50.27-a.m.-1.png" alt="Chicago">
     </div>
 
     <div class="item">
-    <div class="carousel-caption">
+    <div class="carousel-caption col-md-6 col-md-offset-3 col-xs-12 visible-lg visible-md">
         <h2 class="text-cap">Línea de Mantenimiento. </h2>
         <p style="line-height: 20px;"> Productos especializados en la limpieza antes y después de la <br>instalación de las obras para porcelanatos, marmoles y granitos.</p>
         <a href=""><div class="col-md-3 col-md-offset-9 col-xs-12 ctacarr">Ver más</div></a>
       </div>
-      <img src="http://localhost/wordpress/wp-content/uploads/2017/07/Captura-de-pantalla-2017-07-28-a-las-9.50.27-a.m..png" alt="New York">
+      <img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/Captura-de-pantalla-2017-07-28-a-las-9.50.27-a.m.-1.png" alt="New York">
     </div>
   </div>
 

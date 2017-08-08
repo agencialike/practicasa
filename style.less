@@ -3,6 +3,7 @@
 @import "bootstrap.less";
 @import "menu.less";
 
+@import 'jrobalinob.less';
 @font1 :'Open Sans', sans-serif;
 @font2 :'Titillium Web', sans-serif;
 body{
@@ -11,26 +12,8 @@ body{
 .carousel-control.left, .carousel-control.right{
 	background-image: none;
 }
-.footer{
-	margin-top: 30px;
-	div {
-		p{
-			color: rgba(255,255,255,0.7);
-			font-size: 14px;
-		}
-		ul{
-			color: rgba(255,255,255,0.7);
-			padding: 55px 0px 25px 0px; 
-			li{
-				list-style: none;
-				span{
-					padding: 15px 0px; 
-					font-weight: 800;
-				}
-
-			}
-		}
-	}
+ul, ul li{
+	list-style: none;
 }
 
 .img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img{
@@ -208,11 +191,14 @@ font-family: @font2;
  }
 .parallax{
 	color: white;
-	font-size: 18px;
+	font-size: 14px;
 	background: url("http://localhost/wordpress/wp-content/uploads/2017/07/marmol1.jpg");
-	background-position: fixed;
 	background-size: cover;
-	min-height: 300px; 
+	min-height: 100px;
+		h1{
+			padding: 10px 0px 100px 0px;
+			font-size: 14px;
+		}
 }
 
 .contactanos{
@@ -242,6 +228,102 @@ font-family: @font2;
 		font-size: 22px;
 		padding: 10px;
 }
+
+.gallery2 img {
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    transition-duration:0.5s;
+}
+.gallery2 img :hover{
+	-webkit-filter: none; /* Safari 6.0 - 9.0 */
+    filter: none;
+
+}
+
+
+.quien{
+	h1{
+		padding: 30px 0px;
+		margin: 20px 0px ;
+	}
+	section div{
+			margin:40px 0px;
+		div{
+			padding: 30px 0px;
+			text-align: center;
+
+			h1{
+				font-weight: 800;
+				padding: 20px 0px;
+			}
+		}
+	}
+}
+
+.acercatit{
+	text-align: left;
+	font-size: 16px;
+
+	div {
+
+		li{
+			list-style: none;
+		}
+		.acertitu{
+			font-weight: 800;
+		}
+		.acerparra{
+			padding-bottom: 25px;
+		}
+
+	}
+}
+
+
+
+
+ /* ------------- Styleblog ------------- */
+.widgets{
+	li{
+		list-style: none;
+		img{
+		width: 100%;
+		height: auto;
+		padding: 15px 0px;
+		}
+	}
+	
+}
+
+
+.proyectos{
+	h1{
+		font-size: 16px;
+	}
+	ul{
+		li{
+			list-style: none;
+			h1
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

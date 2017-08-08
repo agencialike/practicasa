@@ -9,17 +9,17 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><img src="http://localhost/wordpress/wp-content/uploads/2017/07/logo300x100.png" class="img-responsive" style="padding: 0px;height: 50px; width: auto" alt=""></a>
+            <a class="navbar-brand" href="http://practicasa.lacarniceriaec.com/"><img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/logo300x100.png" class="img-responsive" style="padding: 0px;height: 50px; width: auto" alt=""></a>
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-              <li class="active"><a href="./">Inicio <span class="sr-only">(current)</span></a></li>
-              <li><a href="http://localhost/wordpress/?page_id=80">Quienes somos</a></li>
+              <li class="active"><a href="http://practicasa.lacarniceriaec.com/">Inicio <span class="sr-only">(current)</span></a></li>
+              <li><a href="http://practicasa.lacarniceriaec.com/quienes-somos/">Quienes somos</a></li>
               <li><a href="../navbar-fixed-top/">Productos</a></li>
-              <li><a href="../navbar-fixed-top/">Proyectos</a></li>
-              <li><a href="http://localhost/wordpress/?page_id=77">Galería</a></li>
-              <li><a href="../navbar-fixed-top/">Blog</a></li>
-              <li><a href="http://localhost/wordpress/?page_id=82">Contacto</a></li>
+              <li><a href="http://practicasa.lacarniceriaec.com/proyectos/">Proyectos</a></li>
+              <li><a href="http://practicasa.lacarniceriaec.com/galeria/">Galería</a></li>
+              <li><a href="http://practicasa.lacarniceriaec.com/blog/">Blog</a></li>
+              <li><a href="http://practicasa.lacarniceriaec.com/contactano/">Contacto</a></li>
 
             </ul>
           </div><!--/.nav-collapse -->
