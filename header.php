@@ -3,8 +3,8 @@
 <head>
 	<meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="alternate" hreflang="ec" href="http://lleila.com/" />
-  <link rel="canonical" href="http://www.lleila.com/">
+  <link rel="alternate" hreflang="ec" href="http://practicasa.lacarniceriaec.com/" />
+  <link rel="canonical" href="http://practicasa.lacarniceriaec.com/">
   <link rel="stylesheet" href="http://lleila.com/lightbox.css">
   <link rel="stylesheet" href="https://blackrockdigital.github.io/startbootstrap-full-slider/css/full-slider.css">
   <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">

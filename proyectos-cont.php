@@ -20,43 +20,43 @@
 		<div class="tab-content">
 		  <div id="home" class="tab-pane fade in active">
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12 col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12 col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
@@ -67,43 +67,43 @@
 		  </div>
 		  <div id="menu1" class="tab-pane fade">
 		    	<div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/24071217roma_004_full.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://practicasa.lacarniceriaec.com/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
@@ -112,43 +112,43 @@
 		  </div>
 		  <div id="menu2" class="tab-pane fade">
 		    	<div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
@@ -157,43 +157,43 @@
 
 		  <div id="menu3" class="tab-pane fade">
 		    	<div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>
 			  </div>
 			  <div class="col-md-6 col-xs-12 imag">
-			    <a href="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
-				<img src="http://localhost/wordpress/wp-content/uploads/2017/07/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
+			    <a href="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" data-lightbox="galleria" data-title="Hidden item 2">
+				<img src="http://practicasa.ec/wp-content/uploads/2017/08/23071217Ambiente-Versilia-Lappato.jpg" class="img-responsive col-md-8 col-xs-12" alt="">
 				<div class="col-md-4 col-xs-12" style="padding: 5px;"> <strong>Titulo1.</strong> <br>
 					<p>descripcion1</p>
 				</div>

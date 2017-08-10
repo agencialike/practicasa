@@ -13,13 +13,11 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-              <li class="active"><a href="http://practicasa.lacarniceriaec.com/">Inicio <span class="sr-only">(current)</span></a></li>
-              <li><a href="http://practicasa.lacarniceriaec.com/quienes-somos/">Quienes somos</a></li>
-              <li><a href="../navbar-fixed-top/">Productos</a></li>
-              <li><a href="http://practicasa.lacarniceriaec.com/proyectos/">Proyectos</a></li>
-              <li><a href="http://practicasa.lacarniceriaec.com/galeria/">Galería</a></li>
-              <li><a href="http://practicasa.lacarniceriaec.com/blog/">Blog</a></li>
-              <li><a href="http://practicasa.lacarniceriaec.com/contactano/">Contacto</a></li>
+              <li class="active"><a href="http://practicasa.ec/">Inicio <span class="sr-only">(current)</span></a></li>
+              <li><a href="http://practicasa.ec/quienes-somos/">Quienes somos</a></li>
+              <li><a href="http://practicasa.ec/proyectos/">Proyectos</a></li>
+              <li><a href="http://practicasa.ec/galeria/">Galería</a></li>
+              <li><a href="http://practicasa.ec/blog/">Blog</a></li>
 
             </ul>
           </div><!--/.nav-collapse -->
